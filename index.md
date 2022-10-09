@@ -2,23 +2,52 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# Experience
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## DevOps Engineer - UST 
 
-> This is a blockquote following a header.
+I am part of the deployment team for Banco Santander with diferent task.
+
+> Maintenance of runtime environments.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Creation and maintenance of pipelines.
+>
+> Task automation with scripting
+>
+> Log monitoring and error management
+
+
+## DevOps Engineer - Torrecid SA
+
+I am part of the deployment team for Banco Santander with diferent task.
+
+> Docker swarm cluster configuration and maintenance
+>
+> Logging system integration for ASP.NET applications using Grafana
+>
+> Infrastructure monitoring with Zabbix
+>
+> Linux and Windows Servers Maintenance and virtualization with VMWare
+>
+> Application development in both backend and frontend with angular 12 and ASP.NET
+
+## Intern - Mas Ingenieros 
+
+LoRa network development for industrial environment contextual data monitoring using ESP32 microcontrollers with MQTT protocol. This project was part of the final degree project.
+
+## Research Fellow - Universitat Jaume I (UJI)
+
+Convolutional neural networks analysis and creation using TensorFlow and Keras libraries for audio classification.
 
 ### Header 3
 
