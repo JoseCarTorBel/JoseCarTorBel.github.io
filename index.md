@@ -29,8 +29,6 @@ I am part of the deployment team for Banco Santander with diferent task.
 
 ## DevOps Engineer - Torrecid SA
 
-I am part of the deployment team for Banco Santander with diferent task.
-
 > Docker swarm cluster configuration and maintenance
 >
 > Logging system integration for ASP.NET applications using Grafana
@@ -49,6 +47,21 @@ LoRa network development for industrial environment contextual data monitoring u
 
 Convolutional neural networks analysis and creation using TensorFlow and Keras libraries for audio classification.
 
+# Tecnologies
+
+## DevOps 
+
+Jenkins | Jira | Git | Docker Swarm | OpenShift | Linux Servers | VMWare vSphere 
+
+## Developer 
+
+C# | C | Java | Python | Java Script | Visual Basic 6
+
+## Others
+
+MQTT | LoRa WAN | LoRa | ESP32 
+
+<!-- 
 ### Header 3
 
 ```js
@@ -149,4 +162,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
