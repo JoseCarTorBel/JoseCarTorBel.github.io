@@ -15,6 +15,18 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Experience
 
+## DevOps Engineer - SEIDOR Opentrends 
+
+> Pipelines creation and maintenance with Jenkins.
+>
+> Openshift, Docker Swarm, IBM Cloud configuration to different environment.
+>
+> Maintenance and creation of images in the private registry.
+>
+> Azure Infrastructure configuration.
+>
+> Support to development teams for the deployment of applications.
+
 ## DevOps Engineer - UST 
 
 I am part of the deployment team for Banco Santander with diferent task.
